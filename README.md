@@ -3,7 +3,7 @@
 </p>
 <!-- Header -->
 <h1 align="center">🌙 Kaustubh Rane</h1>
-<h3 align="center">💻 MERN Stack Learner | 🚀 AI Project Builder | 🌌 Night Owl Developer</h3>
+<h3 align="center">💻 MERN Stack Learner | 🚀 AI Enthusiast | 🌌 Night Owl </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=AI+enthusiast;Building+modern+web+apps;Integrating+AI+into+projects;Calm+vibes%2C+big+dreams" alt="Typing Animation">
