@@ -1,75 +1,186 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.jpg" alt="Banner" width="100%">
-</p>
-<!-- Header -->
-<h1 align="center">🌙 Kaustubh Rane</h1>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=AI+enthusiast;Building+modern+web+apps;Integrating+AI+into+projects;Calm+vibes%2C+big+dreams" alt="Typing Animation">
+  <img
+    src="https://i.pinimg.com/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.jpg"
+    alt="Kaustubh Rane"
+    width="100%"
+  />
 </p>
 
----
-
-
-### 🪶 About Me
-Hi, I’m **Kaustubh Rane** — an Information Technology student passionate about **building modern web applications** and exploring the **power of Artificial Intelligence**.  
-I’m currently diving deep into the **MERN stack** while experimenting with AI integrations to create practical, impactful projects.  
- 
-🌙 Most productive when the world is quiet (yes, I’m a certified night owl).  
-🚀 Always learning, always building.
-
----
-
-## 🚀 Tech Stack
+<h1 align="center">Kaustubh Rane</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=8" />
+  <b>Information Technology Student • Full-Stack Developer • AI Enthusiast</b>
 </p>
 
-
----
-
-### 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaustubh2049&show_icons=true&theme=nightowl&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh2049&layout=compact&theme=nightowl&hide_border=true" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Exploring+AI+and+intelligent+systems;Learning+software+engineering;Turning+ideas+into+working+systems"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaustubh-rane-64043334b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kaustubh.anr@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+  </a>
 </p>
 
 ---
 
+## About Me
 
+I'm an Information Technology student with a focus on **full-stack development, artificial intelligence, and software engineering**. I enjoy building practical software that combines clean interfaces, solid backend systems, databases, APIs, and intelligent features.
+
+I'm currently strengthening my foundations in **Java, Data Structures & Algorithms, Full-Stack Development, and AI**, while working on my current project — an **Exam Cell Automation System** — which is in active development.
+
+I'm open to **internship and software engineering opportunities**.
+
+> Build. Learn. Break. Fix. Improve.
 
 ---
 
-### 📈 Contribution Activity
+## Tech Stack
+
+**Languages**
+
+<p><img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" /></p>
+
+**Frontend**
+
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></p>
+
+**Backend & Databases**
+
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase" /></p>
+
+**Tools & Engineering**
+
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" /></p>
+
+**AI / Data**
+
+- Python
+- CatBoost
+- SHAP
+- LangChain
+- Gemini
+- AI Integrations
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh2049&theme=react-dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kaustubh2049&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh2049&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"
+    height="180"
+  />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaustubh-rane-64043334b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="mailto:kaustubh.anr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-  <a href="https://www.instagram.com/kaustubh_rane_29/profilecard/?igsh=ZGpqNm81OXNkZnRi" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-</p>
+## Development Activity
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh2049&bg_color=0D1117&color=38BDF8&line=38BDF8&point=34D399&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
-<!-- Footer Wave -->
+## Contribution Snake
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
+  <img
+    src="https://raw.githubusercontent.com/kaustubh2049/kaustubh2049/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</p>
+
+<p align="center"><i>Contribution activity visualized through GitHub Actions.</i></p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=kaustubh2049&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    width="95%"
+    alt="GitHub Profile Trophies"
+  />
+</p>
+
+---
+
+## Current Focus
+
+**Project:** Exam Cell Automation System — *in active development*
+
+Automating examination workflows and academic record management for exam cell staff, including:
+
+- Student academic records
+- Marks processing
+- Semester / branch schemes
+- Result processing
+- Examination document generation
+
+**Learning:**
+
+- Java, Data Structures & Algorithms *(active)*
+- Backend Engineering, PostgreSQL *(active)*
+- System Design *(in progress)*
+- AI Engineering *(exploring)*
+
+---
+
+## Achievements
+
+- 🏆 3rd Rank — CodeSprint Hackathon, Xavier Institute of Engineering
+- 🏆 5th Rank — SprintNova Hackathon
+- 🥉 3rd Place — Project Exhibition, Semester VI
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/kaustubh2049">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaustubh-rane-64043334b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kaustubh.anr@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/kaustubh_rane_29/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaustubh2049&style=for-the-badge&color=38BDF8&label=PROFILE+VISITS" alt="Profile Views" />
+</p>
+
+<p align="center"><b>Open to internships, software engineering opportunities, and collaborations.</b></p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%" />
 </p>
