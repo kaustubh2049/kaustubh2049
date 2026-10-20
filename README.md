@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://i.pinimg.com/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.jpg"
-    alt="Kaustubh Rane"
-    width="100%"
-  />
+  <img src="assets/space-banner.svg" alt="Kaustubh Rane — exploring ideas across the software universe" width="100%" />
 </p>
 
 <h1 align="center">Kaustubh Rane</h1>
@@ -14,20 +10,17 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Exploring+AI+and+intelligent+systems;Learning+software+engineering;Turning+ideas+into+working+systems"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=8BE9FD&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Exploring+AI+and+intelligent+systems;Learning+software+engineering;Turning+ideas+into+working+systems"
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/kaustubh-rane-64043334b/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn" />
   </a>
   <a href="mailto:kaustubh.anr@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Email" />
   </a>
 </p>
 
@@ -42,6 +35,8 @@ I'm currently strengthening my foundations in **Java, Data Structures & Algorith
 I'm open to **internship and software engineering opportunities**.
 
 > Build. Learn. Break. Fix. Improve.
+
+<p align="center"><i>Curious by nature. Building one small piece of the future at a time.</i></p>
 
 ---
 
@@ -78,11 +73,11 @@ I'm open to **internship and software engineering opportunities**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kaustubh2049&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=kaustubh2049&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8BE9FD&icon_color=C4A7FF&text_color=D7E3F4&rank_icon=github"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh2049&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh2049&layout=compact&hide_border=true&bg_color=0B1020&title_color=8BE9FD&text_color=D7E3F4"
     height="180"
   />
 </p>
@@ -93,7 +88,7 @@ I'm open to **internship and software engineering opportunities**.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh2049&bg_color=0D1117&color=38BDF8&line=38BDF8&point=34D399&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh2049&bg_color=0B1020&color=D7E3F4&line=8BE9FD&point=C4A7FF&area=true&area_color=17233E&hide_border=true"
     width="95%"
     alt="GitHub Activity Graph"
   />
@@ -104,11 +99,11 @@ I'm open to **internship and software engineering opportunities**.
 ## Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/kaustubh2049/kaustubh2049/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaustubh2049/kaustubh2049/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaustubh2049/kaustubh2049/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kaustubh2049/kaustubh2049/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution grid" width="95%" />
+  </picture>
 </p>
 
 <p align="center"><i>Contribution activity visualized through GitHub Actions.</i></p>
@@ -119,7 +114,7 @@ I'm open to **internship and software engineering opportunities**.
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=kaustubh2049&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=kaustubh2049&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
     width="95%"
     alt="GitHub Profile Trophies"
   />
@@ -160,21 +155,21 @@ Automating examination workflows and academic record management for exam cell st
 
 <p align="center">
   <a href="https://github.com/kaustubh2049">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/kaustubh-rane-64043334b/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn" />
   </a>
   <a href="mailto:kaustubh.anr@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Email" />
   </a>
   <a href="https://www.instagram.com/kaustubh_rane_29/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=38BDF8" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-0B1020?style=for-the-badge&logo=instagram&logoColor=C4A7FF" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustubh2049&style=for-the-badge&color=38BDF8&label=PROFILE+VISITS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kaustubh2049&style=for-the-badge&color=5965A8&label=PROFILE+VISITS" alt="Profile Views" />
 </p>
 
 <p align="center"><b>Open to internships, software engineering opportunities, and collaborations.</b></p>
@@ -182,5 +177,5 @@ Automating examination workflows and academic record management for exam cell st
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BE9FD,50:738BFF,100:C4A7FF&height=100&section=footer" width="100%" />
 </p>
